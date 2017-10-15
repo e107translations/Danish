@@ -1,0 +1,75 @@
+<?php
+
+// Bing-Translated Language file 
+// Generated for e107 v2.x by the Multi-Language Plugin
+// https://github.com/e107inc/multilan
+
+define("LAN_GALLERY_ADMIN_01", "[x] er aktiv. Du skal blot importere og tildele billeder til galleri kategorier ved hjælp af [y]");
+define("LAN_GALLERY_ADMIN_03", "Diasshow Menu");
+define("LAN_GALLERY_ADMIN_04", "Billede Max. Bredde");
+define("LAN_GALLERY_ADMIN_05", "Billeder vil blive auto-ændret hvis større end bredden givet her");
+define("LAN_GALLERY_ADMIN_06", "Billede Max. Højde");
+define("LAN_GALLERY_ADMIN_07", "Billeder vil blive auto-størrelse hvis større end højden her");
+define("LAN_GALLERY_ADMIN_08", "Vis \'download\' link");
+define("LAN_GALLERY_ADMIN_09", "En dataoverføre valgmulighed vil være vist for popup titelteksten");
+define("LAN_GALLERY_ADMIN_10", "Slideshow kategori");
+define("LAN_GALLERY_ADMIN_11", "Billeder fra denne kategori vil blive brugt i menuen glidende.");
+define("LAN_GALLERY_ADMIN_12", "Lysbilledernes varighed");
+define("LAN_GALLERY_ADMIN_13", "Varighed (i sekunder) for en fuld hoppe.");
+define("LAN_GALLERY_ADMIN_14", "Skub auto-start");
+define("LAN_GALLERY_ADMIN_15", "Når aktiveret billedrotation begynder automatisk, når siden indlæses.");
+define("LAN_GALLERY_ADMIN_16", "Skub frekvens");
+define("LAN_GALLERY_ADMIN_17", "Når auto-start er aktiveret, denne dikterer hvor længe et dias bliver sat før den næste hoppe.");
+define("LAN_GALLERY_ADMIN_18", "Slide virkning");
+define("LAN_GALLERY_ADMIN_19", "Type af effekt.");
+define("LAN_GALLERY_ADMIN_20", "Billeder per side");
+define("LAN_GALLERY_ADMIN_21", "Antallet af billeder der skal vises pr. side");
+define("LAN_GALLERY_ADMIN_22", "Bestil billeder af");
+define("LAN_GALLERY_ADMIN_23", "Media ID ASC");
+define("LAN_GALLERY_ADMIN_24", "Media ID DESC");
+define("LAN_GALLERY_ADMIN_25", "Medienavn ASC");
+define("LAN_GALLERY_ADMIN_26", "Medienavn DESC");
+define("LAN_GALLERY_ADMIN_27", "Media billedtekst ASC");
+define("LAN_GALLERY_ADMIN_28", "Media billedtekst DESC");
+define("LAN_GALLERY_ADMIN_29", "slide venstre");
+define("LAN_GALLERY_ADMIN_30", "slide ned");
+define("LAN_GALLERY_ADMIN_31", "fade");
+define("LAN_GALLERY_ADMIN_32", "prettyPhoto indstillinger");
+define("LAN_GALLERY_ADMIN_33", "Animationshastighed");
+define("LAN_GALLERY_ADMIN_34", "Slideshow: Tidsinterval");
+define("LAN_GALLERY_ADMIN_35", "Slideshow: Obduktioner");
+define("LAN_GALLERY_ADMIN_36", "Opacitet");
+define("LAN_GALLERY_ADMIN_37", "Værdi mellem 0 og 1.");
+define("LAN_GALLERY_ADMIN_38", "Vis titel");
+define("LAN_GALLERY_ADMIN_39", "Tillad resize");
+define("LAN_GALLERY_ADMIN_40", "Resize billeder større end viewport.");
+define("LAN_GALLERY_ADMIN_41", "Standardbredden");
+define("LAN_GALLERY_ADMIN_42", "Standardhøjden");
+define("LAN_GALLERY_ADMIN_43", "Counter separator etiket");
+define("LAN_GALLERY_ADMIN_44", "Separatoren for galleriet counter 1 \'of\' 2");
+define("LAN_GALLERY_ADMIN_46", "Vandrette polstring");
+define("LAN_GALLERY_ADMIN_47", "Polstring på hver side af billedet.");
+define("LAN_GALLERY_ADMIN_48", "Skjule flash");
+define("LAN_GALLERY_ADMIN_49", "Skjuler alle flash-objekt på en side, indstillet til TRUE, hvis flash vises over prettyPhoto.");
+define("LAN_GALLERY_ADMIN_50", "Wmode");
+define("LAN_GALLERY_ADMIN_51", "Indstil attributten flash wmode.");
+define("LAN_GALLERY_ADMIN_52", "Obduktioner videoer");
+define("LAN_GALLERY_ADMIN_53", "Modal tæt");
+define("LAN_GALLERY_ADMIN_54", "Hvis angivet til true, kun knappen Luk vil lukke vinduet.");
+define("LAN_GALLERY_ADMIN_55", "Deep-forbinder");
+define("LAN_GALLERY_ADMIN_56", "Tillad prettyPhoto opdatere url for at aktivere deep-sammenkædning.");
+define("LAN_GALLERY_ADMIN_57", "Overlay galleri");
+define("LAN_GALLERY_ADMIN_58", "Hvis angivet til true, et galleri vil overlejre fuld skærm billede på musen over.");
+define("LAN_GALLERY_ADMIN_59", "Tastaturgenveje");
+define("LAN_GALLERY_ADMIN_60", "Angivet til false, hvis du åbner formularer inde prettyPhoto.");
+define("LAN_GALLERY_ADMIN_61", "IE6 fallback");
+define("LAN_GALLERY_ADMIN_62", "hurtig");
+define("LAN_GALLERY_ADMIN_63", "langsom");
+define("LAN_GALLERY_ADMIN_64", "normal");
+define("LAN_GALLERY_ADMIN_65", "Lys afrundet");
+define("LAN_GALLERY_ADMIN_66", "Mørke afrundet");
+define("LAN_GALLERY_ADMIN_67", "Lys square");
+define("LAN_GALLERY_ADMIN_68", "Mørke square");
+define("LAN_GALLERY_ADMIN_69", "Facebook");
+define("LAN_GALLERY_ADMIN_70", "Indlæse prettyPhoto globalt");
+define("LAN_GALLERY_ADMIN_71", "prettyPhoto attribut (krog)");

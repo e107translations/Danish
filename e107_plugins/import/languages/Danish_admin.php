@@ -1,0 +1,78 @@
+<?php
+
+// Bing-Translated Language file 
+// Generated for e107 v2.x by the Multi-Language Plugin
+// https://github.com/e107inc/multilan
+
+define("LAN_CONVERT_03", "Du skal starte med en ren E107 database, end den vigtigste admin bruger (ID = 1)");
+define("LAN_CONVERT_04", "Felterne være tomt, kan du gå tilbage og genindtaste værdier.");
+define("LAN_CONVERT_05", "Kører dette script kan tømme mange af tabellerne E107 - Sørg for at du har en fuld backup før du fortsætter!");
+define("LAN_CONVERT_06", "Importere datatype");
+define("LAN_CONVERT_07", "CSV Format specifikation");
+define("LAN_CONVERT_08", "Eksisterende database");
+define("LAN_CONVERT_09", "Detaljer om forbindelse til kildedatabasen");
+define("LAN_CONVERT_10", "Adgangskoder i kildefilen er ikke krypteret");
+define("LAN_CONVERT_11", "Detaljerede oplysninger om datakilde data");
+define("LAN_CONVERT_12", "Grundlæggende username og password");
+define("LAN_CONVERT_13", "CSV-fil");
+define("LAN_CONVERT_14", "Format af import database");
+define("LAN_CONVERT_15", "Ingen import omformere tilgængelige");
+define("LAN_CONVERT_16", "Første bruger klasse(r)");
+define("LAN_CONVERT_17", "Adgangskode i CSV-filen krypteres ikke allerede");
+define("LAN_CONVERT_18", "(Adgangskoden skal være lagret med MD5 kryptering)");
+define("LAN_CONVERT_19", "Database vært");
+define("LAN_CONVERT_20", "Database Username");
+define("LAN_CONVERT_21", "Adgangskode til database");
+define("LAN_CONVERT_22", "Databasenavn");
+define("LAN_CONVERT_23", "Database pr├ªfiks");
+define("LAN_CONVERT_24", "Områder at importere");
+define("LAN_CONVERT_25", "Brugere");
+define("LAN_CONVERT_26", "Forum definitioner");
+define("LAN_CONVERT_27", "Meningsmålinger");
+define("LAN_CONVERT_28", "Nyheder");
+define("LAN_CONVERT_29", "Database import afsluttet");
+define("LAN_CONVERT_30", "Importrutinen oplysninger");
+define("LAN_CONVERT_31", "CSV datafil ikke findes, eller ugyldige tilladelser");
+define("LAN_CONVERT_32", "Fejl ved læsning af csv-datafilen");
+define("LAN_CONVERT_33", "Fejl i CSV-data linje");
+define("LAN_CONVERT_34", "Fejl:--ERRNUM--mens du skriver til databasen med line");
+define("LAN_CONVERT_35", "CSV-import færdig. --LINJER--Læs, tilføjet--brugere--brugere,--fejl--fejl");
+define("LAN_CONVERT_36", "Filnavn for CSV-data");
+define("LAN_CONVERT_37", "Ugyldig formatspecifikationen for importtype");
+define("LAN_CONVERT_38", "Slet eksisterende data");
+define("LAN_CONVERT_39", "(Hvis du ikke gør det, plakater af importerede data vil blive vist som 'Anonym')");
+define("LAN_CONVERT_40", "Eksisterende data slettet");
+define("LAN_CONVERT_41", "Nødvendige database adgang felt er tomt");
+define("LAN_CONVERT_42", "Fejl i definitionsfilen - kræves klasse findes ikke");
+define("LAN_CONVERT_43", "Fejl tilslutning til kildedatabasen");
+define("LAN_CONVERT_44", "Forespørgsel installationsfejl for");
+define("LAN_CONVERT_45", "Ikke kan læse koden importfil");
+define("LAN_CONVERT_46", "Fejl:--ERRNUM--under skrivning til--DB - database, line");
+define("LAN_CONVERT_47", "--BLOCK--batchimport afsluttet. --LINJER--Læs, tilføjet--brugere--,--fejl--fejl");
+define("LAN_CONVERT_48", "Indlæg i forum");
+define("LAN_CONVERT_49", "Drupal");
+define("LAN_CONVERT_50", "Grundlæggende import");
+define("LAN_CONVERT_51", "Versionen af målrettede Drupal.");
+define("LAN_CONVERT_52", "Drupal Version");
+define("LAN_CONVERT_53", "Den base URL af Drupal hjemmeside (f.eks http://mydrupalsite.com).");
+define("LAN_CONVERT_54", "Drupal Base URL");
+define("LAN_CONVERT_55", "Base URL-stien (dvs. mappe) af Drupal installationen (fx/drupal /).");
+define("LAN_CONVERT_56", "Drupal Base sti");
+define("LAN_CONVERT_57", "Ingen fejl");
+define("LAN_CONVERT_58", "Kan ikke\ 't ændre vigtigste admin data");
+define("LAN_CONVERT_59", "Ugyldigt felt bestået");
+define("LAN_CONVERT_60", "Obligatorisk felt ikke angivet");
+define("LAN_CONVERT_61", "Brugeren findes allerede");
+define("LAN_CONVERT_62", "Ugyldige tegn i navnet på brugeren eller login");
+define("LAN_CONVERT_63", "Fejl under lagring af udvidet bruger fields");
+define("LAN_CONVERT_64", "Vælg");
+define("LAN_CONVERT_65", "Sider");
+define("LAN_CONVERT_66", "Side kapitler");
+define("LAN_CONVERT_67", "Links");
+define("LAN_CONVERT_68", "Medier");
+define("LAN_CONVERT_69", "Forum");
+define("LAN_CONVERT_70", "Forum emner/tråde");
+define("LAN_CONVERT_71", "Indlæg i forum");
+define("LAN_CONVERT_72", "Forum spor");
+define("LAN_CONVERT_73", "Userclasses");
+define("LAN_CONVERT_74", "Nyhedskategorier");

@@ -1,0 +1,52 @@
+<?php
+/*
++---------------------------------------------------------------+|        e107 website system  Language File|     
+|        $Source: /cvsroot/e107/e107_langpacks/e107_languages/Danish/admin/lan_userclass2.php,v $|        $Revision: 1.2 $|        $Date: 2005/07/06 22:12:01 $|        $Author: e107dk $+---------------------------------------------------------------+*/
+define("UCSLAN_10", "Klasse ikke slettet - det er en grundlæggende klasse, eller som anvendes i definitionen af en anden klasse, som enten forældre eller Rediger klasse");
+define("UCSLAN_30", "Kort navn vises i selektorer");
+define("UCSLAN_31", "Oplysninger om anvendeligheden af klasse");
+define("UCSLAN_32", "Brugere i denne klasse kan tilføje/fjerne sig fra den klasse, der redigeres");
+define("UCSLAN_33", "Bestemmer, hvilke brugere kan se denne klasse i drop-down lister");
+define("UCSLAN_36", "Hvis toppen af træet er 'Ingen', stige tilladelser mod toppen af træet<br>Hvis toppen af træet er 'Alle', øge tilladelser som du går ned i træet");
+define("UCSLAN_37", "Du skal angive et navn til klassen");
+define("UCSLAN_38", "Indledende brugerklasse");
+define("UCSLAN_39", "Ingen klasser, som kan indstilles");
+define("UCSLAN_40", "Angiv indledende klasser");
+define("UCSLAN_41", "Indstillingerne opdateret");
+define("UCSLAN_43", "Eksisterende klasser:");
+define("UCSLAN_45", "Punkt hvor klasser sæt:");
+define("UCSLAN_46", "(ignoreres hvis ingen kontrol)");
+define("UCSLAN_47", "Indledende tilmelding");
+define("UCSLAN_48", "Kontrol af e-mail eller admin");
+define("UCSLAN_49", "Disse klasser er angivet for nogen nyligt tilmeldt bruger - enten straks, eller når deres site medlemskab er blevet verificeret");
+define("UCSLAN_53", "Forsigtig! Kun bruge disse indstillinger, når du beder om støtte.");
+define("UCSLAN_54", "En standard bruger hierarkiet for dimensionsopsætning");
+define("UCSLAN_55", "Klart brugerhierarki");
+define("UCSLAN_56", "(dette indstiller en 'flad' bruger klasse struktur)");
+define("UCSLAN_57", "(hierarkiet kan ændres senere)");
+define("UCSLAN_58", "Udføre");
+define("UCSLAN_62", "Oprette standard klasse træ:");
+define("UCSLAN_63", "Denne klassenavn findes allerede - skal du vælge en anden");
+define("UCSLAN_64", "afsluttet");
+define("UCSLAN_65", "Flade brugeren klasse hierarki:");
+define("UCSLAN_69", "Valgfri ikonet forbundet med klasse - Register");
+define("UCSLAN_70", "Genopbygge klasse hierarki:");
+define("UCSLAN_71", "Bruger klasse vedligeholdelse");
+define("UCSLAN_72", "Genopbygge klasse hierarkiet");
+define("UCSLAN_73", "(Dette kan være påkrævet, hvis database korruption opstår)");
+define("UCSLAN_74", "Administratorer og moderatorer");
+define("UCSLAN_75", "Registreret og logget ind medlemmer");
+define("UCSLAN_76", "Webstedsadministratorer");
+define("UCSLAN_77", "Vigtigste Site administratorer");
+define("UCSLAN_78", "Moderatorer til forum og andre områder");
+define("UCSLAN_80", "Standard");
+define("UCSLAN_81", "Gruppe");
+define("UCSLAN_82", "En gruppe samler en række individuelle klasser");
+define("UCSLAN_83", "Klasser i gruppen");
+define("UCSLAN_85", "Du har tildelt alle tilgængelige klasser; venligst gentildele en, som ikke er i brug");
+define("UCSLAN_86", "Nogle indstillinger tilladt ikke for admin klasser - de har været sat til standard.");
+define("UCSLAN_87", "For nylig tiltrådte brugere");
+define("UCSLAN_88", "Identificerede søgerobotter");
+define("UCSLAN_89", "Kontrolleret klasser er medlemmer af gruppen");
+define("UCSLAN_90", "Du kan ikke redigere visse system bruger klasser!");
+define("UCSLAN_91", "Klasse struktur");
